@@ -1,5 +1,7 @@
 <?php
 
+$client_ip = "192.168.1.1";
+
 //echo "<img src=x onerror=\"alert(require('child_process').execSync('calc').toString());\">";
 
 error_reporting(0);
